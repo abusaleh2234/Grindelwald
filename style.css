@@ -143,6 +143,7 @@
     font-family: Switzer-Variable;
     font-size: 18px;
     font-weight: 400;
+    padding-top: 42px;
 }
 
 .StatisticsNum {
@@ -179,7 +180,7 @@
 
 .aboutContent {
     position: absolute;
-    top: 9%;
+    top: 11%;
     width: 100%;
 }
 
